@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Change WorkStation 40 screen",
+      "attention": true,
+      "tech": "King MOJA",
+      "date": "2023-06-30T22:34:29.004Z"
+    },
+    {
+      "id": 2,
+      "message": "Replaced PC 002 with 16 gig RAM",
+      "attention": false,
+      "tech": "King MOJA",
+      "date": "2023-06-30T22:34:29.004Z"
+    },
+    {
+      "id": 3,
+      "message": "Fix system 0009 ",
+      "attention": true,
+      "tech": "Sam PaT",
+      "date": "2023-06-30T22:34:29.004Z"
+    },
+    {
+      "id": 4,
+      "message": "Connect System 2 with router",
+      "attention": true,
+      "tech": "Techy Chima",
+      "date": "2023-06-30T22:34:29.004Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstname": "King",
+      "lastname": "MOJA",
+      "role": "Developer",
+      "id": 1
+    },
+    {
+      "firstname": "Mike",
+      "lastname": "Daniel",
+      "role": "Engineer",
+      "id": 2
+    },
+    {
+      "firstname": "majid",
+      "lastname": "mick",
+      "role": "backend engineer",
+      "id": 3
+    }
+  ]
+}
